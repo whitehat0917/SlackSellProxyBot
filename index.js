@@ -76,7 +76,7 @@ controller.on('reaction_added',function(bot,message) {
 })
 
 const bot = new SlackBot({
-    token: 'xoxb-1116644764325-1428602447622-lv73WqalUXuAfbfiAT4i30ef',
+    token: 'xoxb-',
     name: 'ProxySlackBot'
 });
 
